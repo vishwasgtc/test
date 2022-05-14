@@ -54,3 +54,13 @@ git checkout -b <branch name>
 
 merging brances 
 git merge <branchname>
+
+git ignore file
+create file through cmd  touch.gitignore
+
+
+push to github
+git remote add origin https://github.com/vishwasgtc/test.git
+(to check remote origitn cmd is git remote -v)
+git branch -M main
+git push -u origin main
