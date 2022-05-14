@@ -53,4 +53,4 @@ git checkout -b <branch name>
 ### NEW FEATURE
 
 merging brances 
-git merge <branch>
+git merge <branchname>
