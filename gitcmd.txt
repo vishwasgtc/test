@@ -51,3 +51,6 @@ create new branch and checkout directly
 git checkout -b <branch name>
 
 ### NEW FEATURE
+
+merging brances 
+git merge <branch>
