@@ -1,0 +1,29 @@
+check version
+git --version
+
+set globals
+git config --global user.name "Vishwas Halani"
+git config --global user.email "vishwas.halani@gtcsys.com"
+
+check globals
+git config --global user.email
+
+edit entire config file
+git config --global --edit
+
+how to save edit fiile (vi editor)
+1.press escape and type :wq and entire
+
+
+Create new git repo in folder
+git init
+
+or Clone repo by 
+git clone URL
+
+check status
+git status
+
+git add all or single files to be commit
+git add * 
+git add filename (for single file)
