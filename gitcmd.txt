@@ -24,6 +24,30 @@ git clone URL
 check status
 git status
 
-git add all or single files to be commit
+git add all or single files to be commit (this add changed file to staging area)
 git add * 
+git add .
 git add filename (for single file)
+
+
+commit new files which addeed recently 
+git commit -m "Description here"
+
+how to check number of commits hppned 
+git log
+
+shortcut for clear terminal command+k
+
+using checkout command to go revert go back to changes
+git checkout <commit hash code /branch name>
+
+check branch and current head
+git branch
+
+create new branch 
+git branch <branch name>
+
+create new branch and checkout directly 
+git checkout -b <branch name>
+
+### NEW FEATURE
